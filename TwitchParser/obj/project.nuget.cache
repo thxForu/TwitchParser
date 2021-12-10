@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpfVZMCxsnOFEwImQcagkQBUiIDA0DQaEnvQ3WyciR6nirNotqooLJm1WtLvo4/Dgf6DA38C05fmDXnGnAeBdg==",
+  "success": true,
+  "projectFilePath": "C:\\OtherProjects\\TwitchParser\\TwitchParser\\TwitchParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cool boy\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\cool boy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cool boy\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\cool boy\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.10700\\selenium.webdriver.chromedriver.92.0.4515.10700.nupkg.sha512"
+  ],
+  "logs": []
+}

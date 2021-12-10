@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.TwitchParser.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\DotNet Core\TwitchParser\.idea\.idea.TwitchParser\.idea/dataSources/
+/dataSources.local.xml
